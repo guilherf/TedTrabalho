@@ -1,0 +1,14 @@
+C:\Users\Pichau\Desktop\Trabalho\TED\TEDFACULDADE\bin\Debug\net10.0\TEDFACULDADE.exe
+C:\Users\Pichau\Desktop\Trabalho\TED\TEDFACULDADE\bin\Debug\net10.0\TEDFACULDADE.deps.json
+C:\Users\Pichau\Desktop\Trabalho\TED\TEDFACULDADE\bin\Debug\net10.0\TEDFACULDADE.runtimeconfig.json
+C:\Users\Pichau\Desktop\Trabalho\TED\TEDFACULDADE\bin\Debug\net10.0\TEDFACULDADE.dll
+C:\Users\Pichau\Desktop\Trabalho\TED\TEDFACULDADE\bin\Debug\net10.0\TEDFACULDADE.pdb
+C:\Users\Pichau\Desktop\Trabalho\TED\TEDFACULDADE\obj\Debug\net10.0\TEDFACULDADE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\Trabalho\TED\TEDFACULDADE\obj\Debug\net10.0\TEDFACULDADE.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\TED\TEDFACULDADE\obj\Debug\net10.0\TEDFACULDADE.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\Trabalho\TED\TEDFACULDADE\obj\Debug\net10.0\TEDFACULDADE.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\Trabalho\TED\TEDFACULDADE\obj\Debug\net10.0\TEDFACULDADE.dll
+C:\Users\Pichau\Desktop\Trabalho\TED\TEDFACULDADE\obj\Debug\net10.0\refint\TEDFACULDADE.dll
+C:\Users\Pichau\Desktop\Trabalho\TED\TEDFACULDADE\obj\Debug\net10.0\TEDFACULDADE.pdb
+C:\Users\Pichau\Desktop\Trabalho\TED\TEDFACULDADE\obj\Debug\net10.0\TEDFACULDADE.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\Trabalho\TED\TEDFACULDADE\obj\Debug\net10.0\ref\TEDFACULDADE.dll
