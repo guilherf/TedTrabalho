@@ -12,3 +12,4 @@ C:\Users\Pichau\Desktop\Trabalho\TED\TEDFACULDADE\obj\Debug\net10.0\refint\TEDFA
 C:\Users\Pichau\Desktop\Trabalho\TED\TEDFACULDADE\obj\Debug\net10.0\TEDFACULDADE.pdb
 C:\Users\Pichau\Desktop\Trabalho\TED\TEDFACULDADE\obj\Debug\net10.0\TEDFACULDADE.genruntimeconfig.cache
 C:\Users\Pichau\Desktop\Trabalho\TED\TEDFACULDADE\obj\Debug\net10.0\ref\TEDFACULDADE.dll
+C:\Users\Pichau\Desktop\Trabalho\TED\TEDFACULDADE\obj\Debug\net10.0\TEDFACULDADE.sourcelink.json

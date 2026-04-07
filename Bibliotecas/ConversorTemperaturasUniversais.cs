@@ -50,7 +50,7 @@ namespace TemperaturasConverter
                         Console.WriteLine($"Resultado: {kelvin2} K = {celsius4} °C");
                         break;
                 }
-            } while (mostrarConsole);
+            } while (!mostrarConsole);
             Console.WriteLine("Pressione Enter para voltar ao menu.");
             Console.ReadLine();
         }
