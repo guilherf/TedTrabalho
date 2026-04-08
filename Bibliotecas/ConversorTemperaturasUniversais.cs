@@ -4,10 +4,11 @@ namespace TemperaturasConverter
     {
         public static void ConverterTemperaturas()
         {
-            Console.WriteLine("Bem-vindo ao Conversor de Temperaturas");
             bool mostrarConsole = true;
             do
             {
+                Console.Clear();
+                Console.WriteLine("Bem vindo ao conversor universal de Temperaturas universais");
                 Console.WriteLine("\nEscolha uma opção:");
                 Console.WriteLine("1. Celsius para Fahrenheit");
                 Console.WriteLine("2. Fahrenheit para Celsius");

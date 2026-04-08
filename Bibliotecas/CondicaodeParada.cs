@@ -8,6 +8,8 @@ namespace CondicaodeParada
 
             int numero = 0;
             int soma = 0;
+            Console.Clear();
+            Console.WriteLine("Condição de parada");
 
             Console.WriteLine("Digite números para somar. Digite 0 para parar.");
             Console.WriteLine("Digite numeros negativos para parar.");

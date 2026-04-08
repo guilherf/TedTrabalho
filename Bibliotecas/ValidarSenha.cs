@@ -4,6 +4,8 @@ namespace SenhaValida
     {
         public static void VerificarSenha()
         {
+            Console.Clear();
+            Console.WriteLine("Validador de senhas");
             String senha = "Csharp123";
             Console.Write("Digite a senha: ");
             string senhaDigitada = Console.ReadLine();

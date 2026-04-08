@@ -11,6 +11,9 @@ namespace MediaAluno
             {
                 string nomeAluno;
                 do {
+                    Console.Clear();
+                    Console.WriteLine("Media do Aluno");
+                    Console.WriteLine();
                     Console.Write("Digite o nome do aluno: ");
                     nomeAluno = Console.ReadLine();
                     if (string.IsNullOrWhiteSpace(nomeAluno))

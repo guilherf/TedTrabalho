@@ -14,6 +14,9 @@
         // morra IDE.
         public static void Sacar()
         {
+            Console.Clear();
+            Console.WriteLine("Metodo de Saque");
+            Console.WriteLine();
             Console.Write("Digite o nome da conta: ");
             string nome = Console.ReadLine();
             Console.Write("Digite a senha da conta: ");
@@ -69,6 +72,8 @@
             // isso aqui é o metodo de deposito, ele vai pedir o nome da conta e a senha, depois ele vai verificar se a conta existe, se existir ele vai pedir o valor a ser depositado, depois ele vai atualizar o saldo da conta e mostrar o novo saldo para o cliente.
         public static void Depositar()
         {
+            Console.Clear();
+            Console.WriteLine("Metodo de deposito");
             Console.Write("Digite o nome da conta: ");
             string nome = Console.ReadLine();
             Console.Write("Digite a senha da conta: ");
@@ -118,6 +123,8 @@
 
         public static void VerificarSaldo()
         {
+            Console.Clear();
+            Console.WriteLine("Verificar se saldo");
             Console.Write("Digite o nome da conta: ");
             string nome = Console.ReadLine();
             Console.Write("Digite a senha da conta: ");
@@ -153,6 +160,9 @@
             // meu deus isso n acaba depois fazer isso porque eu sou de deus.
         public static void CriarConta()
         {
+            Console.Clear();
+            Console.WriteLine("Criar uma conta");
+            Console.WriteLine("");
             Console.Write("Crie o nome da conta: ");
             string nome = Console.ReadLine();
             Console.Write("Crie a senha da conta: ");
@@ -180,6 +190,9 @@
         // tem aula hoje...............
         public static void EntrarNaConta()
         {
+            Console.Clear();
+            Console.WriteLine("Entrar na Conta");
+            Console.WriteLine("");
             Console.Write("Digite o nome da conta: ");
             string nome = Console.ReadLine();
             Console.Write("Digite a senha da conta: ");

@@ -4,7 +4,9 @@ namespace TabuadaPersonalizada
     {
         public static void GerarTabuada()
         {
-            Console.Write("Digite o número para gerar a tabuada: ");
+            Console.WriteLine("Gerador de tabuada");
+            Console.Clear();
+            Console.WriteLine("Digite o número para gerar a tabuada: ");
             int numero = int.Parse(Console.ReadLine());
 
             Console.WriteLine($"Tabuada do {numero}:");

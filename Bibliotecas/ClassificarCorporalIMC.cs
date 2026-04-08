@@ -4,6 +4,8 @@ namespace LibrariaIMC
     {
         public static void ClassificarIMC()
         {
+            Console.Clear();
+            Console.WriteLine("Calcular IMC");
             Console.Write("Digite seu peso em kg: ");
             double peso = double.Parse(Console.ReadLine());
 
